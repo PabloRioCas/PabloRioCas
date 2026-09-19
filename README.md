@@ -2,11 +2,11 @@
 
 ### Junior Backend Developer
 
-**Java · Spring Boot · Kotlin · Python · SQL · PostgreSQL · REST APIs**
+ Java · Spring Boot · PostgreSQL · REST APIs | Applied AI & Automation
 
 Graduado en Desarrollo de Aplicaciones Multiplataforma (DAM), con experiencia profesional previa en banca, auditoría y negocio.
 
-Actualmente enfocado en **desarrollo backend, automatización y soluciones que conecten tecnología y negocio**.
+Actualmente enfocado en **desarrollo backend, automatización e integración de soluciones de IA**, buscando conectar tecnología y necesidades reales de negocio.
 
 ## 🚀 Proyecto destacado
 
